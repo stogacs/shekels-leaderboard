@@ -1,5 +1,5 @@
 # Shekels Leaderboard
-A database of sorts to keep track of club member's Sharick Shekels. The leaderboard can be found [here](stogacs.club/shekels)
+A database of sorts to keep track of club member's Sharick Shekels. The leaderboard can be found [here](https://stogacs.club/shekels/)
 
 Format:
 ```bash
