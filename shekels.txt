@@ -1,3 +1,2 @@
-School Username | Shekels | Name |
-23StudentF | 3 | Foo
-23StudentC | 5 | Carter
+School Username | Shekels | Name 
+22TanJ | -38 | Jeffy
